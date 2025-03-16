@@ -18,8 +18,8 @@ This project is a simple, console-based Rock-Paper-Scissors game written in Java
 1. **Clone the Repository or Download the Project Files:**
 
    ```bash
-   git clone https://github.com/yourusername/rock-paper-scissors-java.git
-   cd rock-paper-scissors-java
+   git clone https://github.com/ivyper/Rock-Paper-Scissors.git
+   cd Rock-Paper-Scissors
 
 2. **Compile the Java Program:**
 
